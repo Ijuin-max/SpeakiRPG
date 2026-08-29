@@ -84,8 +84,9 @@
 🇯🇵 
 - 周囲のｽﾋﾟｷ数
 - 各チャンネル接続ｽﾋﾟｷ数の表示
-- クエストのピン留め
 - 他のｽﾋﾟｷの名前を非表示
+- 不適切な単語のフィルタリング
+- クエストのピン留め
 - 経験値トラッカー（1分あたりの経験値と次のレベルまでの推定時間）
 - ポータルに向かって自動で歩く（自動で回復したり、障害物を避けたりはしません）
 - どこでもダンス
@@ -100,7 +101,6 @@
 - 他のｽﾋﾟｷの視点からゲームを観戦
 - MODタイトルをクリックしてMODのHUDを折りたたむ（三段階）
 - クライアント言語切り替え機能（English / 日本語 / 한국어 から選択可能）
-- 不適切な言葉のフィルター
   
 🇰🇷
 - 주변 플레이어 수 표시
@@ -404,21 +404,21 @@ npm start
 * **Speaki MMO Development:** GMDT
 * **Client Coding:** Glas
 * **SpeakiMOD Feature Extender:** Alluseri
-* **Japanese Proof-reading:** JPN_WholesomeElfName15T
+* **Japanese Translation:** JPN_WholesomeElfName15T
 
 🇯🇵
 * **オリジナルゲーム:** EPID Games
 * **Speaki MMO開発:** GMDT
 * **クライアントコーディング:** Glas
 * **SpeakiMOD機能拡張:** Alluseri
-* **日本語校正:** JPN_健全なエルフ名15T
+* **日本語翻訳:** JPN_健全なエルフ名15T
 
 🇰🇷
 * **오리지널 게임:** EPID Games
 * **Speaki MMO 개발:** GMDT
 * **클라이언트 코딩:** Glas
 * **SpeakiMOD 기능 확장:** Alluseri
-* **일본어 교정:** JPN_건전한엘프명15T
+* **일본어 번역:** JPN_건전한엘프명15T
   
 ---
 
