@@ -1,6 +1,6 @@
 # Speaki RPG デスクトップクライアント
 
-[EnglishREADNE](README.md) | [イマココ!](README.ja.md) | [한국어READNE](README.ko.md)
+[English:READNE](README.md) | [イマココ!](README.ja.md) | [한국어:READNE](README.ko.md)
 
 # [ダウンロード](https://github.com/DJTOMATO/SpeakiRPG/releases)
 
