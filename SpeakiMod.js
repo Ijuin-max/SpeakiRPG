@@ -756,7 +756,7 @@ const spkmodTranslations = {
 			clickToTranslatePrompt: "どの言語コードから翻訳しますか?（例:en、ja、ko、es、fr)",
 			translateFailedMsg: "翻訳に失敗しました。または、メッセージは既に翻訳先の言語で表示されています。",
 			chatTimestampToggleLabel: "チャットのタイムスタンプ",
-			lowHpWarningToggleLabel: "低HPアラート",
+			lowHpWarningToggleLabel: "低体力時、画面端を赤くする",
 			sessionGoldToggleLabel: "ゴールドの獲得量を表示",
 			uiScaleLabel: "UIスケール",
 			bgOpacityLabel: "HUD背景の透明度",
